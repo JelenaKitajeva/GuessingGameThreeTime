@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.exe
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.deps.json
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.runtimeconfig.json
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.dll
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\ref\GuessingGameThreeTime.dll
+C:\Users\lena_\source\repos\GuessingGameThreeTime\bin\Debug\net5.0\GuessingGameThreeTime.pdb
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.AssemblyInfo.cs
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.dll
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\ref\GuessingGameThreeTime.dll
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.pdb
+C:\Users\lena_\source\repos\GuessingGameThreeTime\obj\Debug\net5.0\GuessingGameThreeTime.genruntimeconfig.cache
